@@ -60,4 +60,4 @@ This project focuses on predicting customer churn for Vodafone Idea, leveraging 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
+   git clone https://github.com/jubiranka/Customer-Churn-Analysis-for-VI
